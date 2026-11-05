@@ -1,0 +1,15 @@
+{
+  "name": "white-ghost",
+  "description": "White Ghost's plugin for Claude Code.",
+  "owner": {
+    "name": "White Ghost",
+    "email": "hello@whiteghost.ai"
+  },
+  "plugins": [
+    {
+      "name": "white-ghost",
+      "source": "./",
+      "description": "Put the apps you build with Claude online for your team: a real web address, a database, and you decide who gets in."
+    }
+  ]
+}

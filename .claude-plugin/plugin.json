@@ -1,0 +1,20 @@
+{
+  "name": "white-ghost",
+  "displayName": "White Ghost",
+  "version": "0.1.0",
+  "description": "Put the apps you build with Claude online for your team: a real web address, a database, and you decide who gets in. One safe place for everything your team builds with AI.",
+  "author": {
+    "name": "White Ghost",
+    "email": "hello@whiteghost.ai",
+    "url": "https://whiteghost.ai"
+  },
+  "homepage": "https://whiteghost.ai",
+  "repository": "https://github.com/castri1/white-ghost-plugin",
+  "license": "MIT",
+  "keywords": ["publish", "hosting", "internal-tools", "database", "access-control", "teams"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://whiteghost.ai/docs",
+  "supportUrl": "https://whiteghost.ai/docs",
+  "privacyPolicyUrl": "https://whiteghost.ai/privacy",
+  "termsOfServiceUrl": "https://whiteghost.ai/terms"
+}
